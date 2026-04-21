@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Klasifikasi Kualitas Beras Berbasis Pengolahan Citra Digital untuk Mendukung Ketahanan Pangan  Menggunakan SVM, KNN dan Naive Bayes
 
 ## Deskripsi
