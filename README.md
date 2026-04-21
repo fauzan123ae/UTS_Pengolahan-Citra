@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Klasifikasi Kualitas Beras Berbasis Pengolahan Citra Digital untuk Mendukung Ketahanan Pangan  Menggunakan SVM, KNN dan Naive Bayes
 
 ## Deskripsi
@@ -108,3 +109,6 @@ Evaluasi dilakukan menggunakan akurasi:
 ## Catatan
 
 Dataset tidak diupload ke GitHub karena ukuran besar. Silakan download melalui link Kaggle.
+=======
+# UTS_Pengolahan-Citra
+>>>>>>> 1be5f1ca450886af58a9b60c3c99e0cea6f32e39
